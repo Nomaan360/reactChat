@@ -1,0 +1,28 @@
+[33mcommit 86774d4ddbf9493cb9a52a2b8a45143d04ee6467[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Nomaan360 <nomaan@360core.inc>
+Date:   Fri May 10 12:04:37 2024 +0530
+
+    init commit
+
+ create mode 100644 .gitignore
+ create mode 100644 package-lock.json
+ create mode 100644 package.json
+ create mode 100644 public/favicon.ico
+ create mode 100644 public/index.html
+ create mode 100644 public/logo192.png
+ create mode 100644 public/logo512.png
+ create mode 100644 public/manifest.json
+ create mode 100644 public/robots.txt
+ create mode 100644 src/App.css
+ create mode 100644 src/App.js
+ create mode 100644 src/App.test.js
+ create mode 100644 src/MyComponents/Addtodo.js
+ create mode 100644 src/MyComponents/Footer.js
+ create mode 100644 src/MyComponents/Todoitem.js
+ create mode 100644 src/MyComponents/Todos.js
+ create mode 100644 src/MyComponents/header.js
+ create mode 100644 src/index.css
+ create mode 100644 src/index.js
+ create mode 100644 src/logo.svg
+ create mode 100644 src/reportWebVitals.js
+ create mode 100644 src/setupTests.js
